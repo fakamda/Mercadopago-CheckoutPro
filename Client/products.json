@@ -1,0 +1,32 @@
+[
+    {
+        "image" : "https://cdn.eldestapeweb.com/eldestape/042023/1682425222262/pancho-jpg..jpg?&cw=600&ch=365",
+        "name": "PANCHITO CON MAYONESA Y PAPITAS",
+        "price": 1000,
+        "quantity": 2
+    },
+    {
+        "image" : "https://pbs.twimg.com/media/BHoREF-CUAAToKh.jpg",
+        "name": "LAMBORGOTTI FASTEROSSA",
+        "price": 100000,
+        "quantity": 1
+    },
+    {
+        "image" : "https://http2.mlstatic.com/D_NQ_NP_675797-MLA48181222950_112021-O.webp",
+        "name": "MOUSE DE IRON MAN",
+        "price": 3000,
+        "quantity": 1
+    },
+    {
+        "image" : "https://media.crocs.com/images/t_pdphero/f_auto%2Cq_auto/products/205759_610_ALT110/crocs",
+        "name": "CROCS DEL RAYO MCQUEEN...CUCHAU",
+        "price": 5000,
+        "quantity": 1
+    },
+    {
+        "image" : "https://http2.mlstatic.com/D_NQ_NP_851234-MLA50747794568_072022-O.webp",
+        "name": "ZAPATILLAS DE SPIDERMAN - LAS QUE USA PETER PARKER",
+        "price": 7000,
+        "quantity": 1
+    }
+]
